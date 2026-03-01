@@ -3,7 +3,7 @@
 
 **Organisateurs :** Aztec & Croissant Strike  
 **Sponsor titre :** AORUS  
-**Format :** 100% Online — Tier 2  
+**Format :** 100% Online - Tier 2  
 **Site officiel :** https://playaztec.com  
 **Contact :** contact@playaztec.com  
 **Discord officiel :** https://discord.com/invite/g2jkVgVArB  
@@ -32,7 +32,7 @@
 
 ## 1.1 Acceptance of the Rules
 
-The Aorus Cup – Edition 2 (hereinafter referred to as "the Tournament") is an official competition organized by Aztec & Croissant Strike.
+The Aorus Cup - Edition 2 (hereinafter referred to as "the Tournament") is an official competition organized by Aztec & Croissant Strike.
 
 By participating in the Tournament, each player and team confirms that they have read, understood, and accepted all rules stated in this document.
 
@@ -164,7 +164,7 @@ Schedule:
 
 ## 4.1 Platform
 
-All qualifiers are played on FACEIT.
+All qualifiers and playoffs are played on FACEIT.
 
 FACEIT Anti-Cheat is mandatory.
 
@@ -172,7 +172,7 @@ FACEIT Anti-Cheat is mandatory.
 
 ## 4.2 Nationality Rule (Core Requirement)
 
-Each team must have a minimum of 3 players of the qualifier’s nationality.
+Each team must have a minimum of 3 players of the qualifier's nationality.
 
 This core of 3 players must always be maintained, including when using substitutes.
 
@@ -185,7 +185,6 @@ Failure to respect nationality rules may result in disqualification.
 - BO1
 - MR12
 - Overtime: MR3 (6 rounds total per OT)
-- Standard FACEIT veto system
 
 ---
 
@@ -200,7 +199,58 @@ Failure to respect nationality rules may result in disqualification.
 
 ---
 
-## 5.2 Webcams (Mandatory)
+## 5.2 Map Veto Procedure
+
+### BO1 Veto Format
+
+The veto process for BO1 matches is conducted as follows:
+
+1. Team A bans 1 map  
+2. Team B bans 1 map  
+3. Team A bans 1 map  
+4. Team B bans 1 map  
+5. Team A bans 1 map  
+6. Team B bans 1 map  
+
+The remaining map will be played.
+
+The team designated as Team A / Team B is determined by the FACEIT platform or by tournament administration if required.
+
+Sides will be determined by standard FACEIT knife round unless otherwise specified.
+
+### BO3 Veto Format
+
+The veto process for BO3 matches in the Playoffs is conducted as follows:
+
+1. Team A bans 1 map  
+2. Team B bans 1 map  
+3. Team A picks Map 1  
+4. Team B picks Map 2  
+5. Team A bans 1 map  
+6. Team B bans 1 map  
+
+The remaining map will be played as the Decider (Map 3).
+
+---
+
+### Side Selection
+
+- On Map 1, Team B chooses the starting side.
+- On Map 2, Team A chooses the starting side.
+- On the Decider map, the starting side will be determined by a knife round unless otherwise specified by tournament administration.
+
+---
+
+### Team Designation
+
+The designation of Team A and Team B is determined by:
+
+- FACEIT seeding system, OR
+- Tournament administration decision if required.
+
+Administration decisions are final.
+
+## 5.3 Webcams (Mandatory Playoffs)
 
 Webcams are mandatory for official matches.
 
@@ -213,7 +263,7 @@ Specific webcam instructions will be provided via Discord.
 
 ---
 
-## 5.3 Coaching
+## 5.4 Coaching
 
 Coaches are allowed.
 
@@ -294,7 +344,7 @@ The Tournament reserves the right to broadcast any match.
 
 ## 7.2 Player Streaming
 
-Players are allowed to stream their matches.
+Players are allowed to stream their matches with a mandatory 120-second delay.
 
 ---
 
