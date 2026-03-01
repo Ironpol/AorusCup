@@ -1,12 +1,12 @@
 # AORUS CUP - EDITION 2
 ## Official Rulebook & Regulations (Counter-Strike 2)
 
-**Organisateurs :** Aztec & Croissant Strike  
-**Sponsor titre :** AORUS  
+**Organizers :** Aztec & Croissant Strike  
+**Sponsor :** AORUS  
 **Format :** 100% Online - Tier 2  
-**Site officiel :** https://playaztec.com  
+**Official Website :** https://playaztec.com  
 **Contact :** contact@playaztec.com  
-**Discord officiel :** https://discord.com/invite/g2jkVgVArB  
+**Official Discord :** https://discord.com/invite/g2jkVgVArB  
 
 **Diffusion officielle :**
 - https://www.twitch.tv/croissantstrike  
