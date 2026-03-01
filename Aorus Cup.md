@@ -1,4 +1,4 @@
-# AORUS CUP - ÉDITION 2
+# AORUS CUP - EDITION 2
 ## Official Rulebook & Regulations (Counter-Strike 2)
 
 **Organisateurs :** Aztec & Croissant Strike  
