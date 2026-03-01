@@ -139,15 +139,22 @@ Each qualifier:
 
 Schedule:
 
-- 12/03: UK Day 1  
-- 13/03: UK Day 2 / Sweden Day 1  
-- 14/03: Sweden Day 2 / Denmark Day 1  
-- 15/03: Denmark Day 2 / Spain Day 1  
-- 16/03: Spain Day 2 / Germany Day 1  
-- 17/03: Germany Day 2 / Poland Day 1  
-- 18/03: Poland Day 2 / Turkey Day 1  
-- 19/03: Turkey Day 2 / France Day 1  
-- 20/03: France Day 2  
+- UK Day 1: 12.03.26
+- UK Day 2: 13.03.26
+- Sweden Day 1: 13.03.26
+- Sweden Day 2: 14.03.26
+- Denmark Day 1: 14.03.26
+- Denmark Day 2: 15.03.26
+- Spain Day 1: 15.03.26
+- Spain Day 2: 16.03.26
+- Germany Day 1: 16.03.26
+- Germany Day 2: 17.03.26
+- Poland Day 1: 17.03.26
+- Poland Day 2: 18.03.26
+- Turkey Day 1: 18.03.26
+- Turkey Day 2: 19.03.26
+- France Day 1: 19.03.26  
+- France Day 2: 20.03.26 
 
 ---
 
