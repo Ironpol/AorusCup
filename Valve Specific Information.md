@@ -28,7 +28,7 @@ If a team does not appear in the VRS ranking, they will be seeded below all rank
 
 ### Tournament Dates
 
-National Qualifiers: 12th March - 20th March 2026  
-Playoffs (Top 8): 21st March - 22nd March 2026  
+National Qualifiers: 18th March - 26th March 2026  
+Playoffs (Top 8): 27st March - 28nd March 2026  
 
 All matches are played online.
