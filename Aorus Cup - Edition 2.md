@@ -1,10 +1,10 @@
-# AORUS CUP - EDITION 2
+# AORUS x AMD - Community Cup #3
 ## Official Rulebook & Regulations (Counter-Strike 2)
 
-**Organizers :** Aztec & Croissant Strike  
+**Organizers :** Centurio, Croissant Strike & Aztec
 **Sponsor :** AORUS  
 **Format :** 100% Online - Tier 2  
-**Official Website :** https://playaztec.com  
+**Official Website :** https://playaztec.com/aoruscup  
 **Contact :** contact@playaztec.com  
 **Official Discord :** https://discord.com/invite/g2jkVgVArB  
 
@@ -32,7 +32,7 @@
 
 ## 1.1 Acceptance of the Rules
 
-The Aorus Cup - Edition 2 (hereinafter referred to as "the Tournament") is an official competition organized by Aztec & Croissant Strike.
+AORUS x AMD - Community Cup #3 (hereinafter referred to as "the Tournament") is an official competition organized by Centurio, Croissant Strike & Aztec.
 
 By participating in the Tournament, each player and team confirms that they have read, understood, and accepted all rules stated in this document.
 
@@ -42,7 +42,7 @@ Participation in any official match implies full acceptance of this rulebook.
 
 ## 1.2 Tournament Officials
 
-The Tournament is organized and administered by Aztec & Croissant Strike.
+The Tournament is organized and administered by Centurio, Croissant Strike & Aztec.
 
 All decisions made by Tournament Administration are final.
 
@@ -123,38 +123,38 @@ Teams must always respect nationality core rules (see section 4.2).
 8 National Qualifiers:
 
 - UK
-- Sweden
-- Denmark
+- Nordics (Sweden, Denmark, Finland)
 - Spain
-- Germany
+- Benelux (Belgium, Netherlands, Luxembourg)
 - Poland
+- Romania
 - Turkey
 - France
 
 Each qualifier:
 - 64 slots
 - BO1 format
-- Check-in: 18:00–18:55 CET
+- Check-in: 17:55–18:55 CET
 - Start: 19:00 CET
 
 Schedule:
 
-- UK Day 1: 12.03.26
-- UK Day 2: 13.03.26
-- Sweden Day 1: 13.03.26
-- Sweden Day 2: 14.03.26
-- Denmark Day 1: 14.03.26
-- Denmark Day 2: 15.03.26
-- Spain Day 1: 15.03.26
-- Spain Day 2: 16.03.26
-- Germany Day 1: 16.03.26
-- Germany Day 2: 17.03.26
-- Poland Day 1: 17.03.26
-- Poland Day 2: 18.03.26
-- Turkey Day 1: 18.03.26
-- Turkey Day 2: 19.03.26
-- France Day 1: 19.03.26  
-- France Day 2: 20.03.26 
+- UK Day 1: 18.03.26
+- UK Day 2: 19.03.26
+- Nordics Day 1: 19.03.26
+- Nordics Day 2: 20.03.26
+- Spain Day 1: 20.03.26
+- Spain Day 2: 21.03.26
+- Benelux Day 1: 21.03.26
+- Benelux Day 2: 22.03.26
+- Poland Day 1: 22.03.26
+- Poland Day 2: 23.03.26
+- Romania Day 1: 23.03.26
+- Romania Day 2: 24.03.26
+- Turkey Day 1: 24.03.26
+- Turkey Day 2: 25.03.26
+- France Day 1: 25.03.26  
+- France Day 2: 26.03.26 
 
 ---
 
@@ -163,7 +163,7 @@ Schedule:
 - 8 Qualified Teams
 - Single Elimination
 - All matches BO3
-- Dates: 21/03 & 22/03
+- Dates: 27/03 & 28/03
 
 ---
 
