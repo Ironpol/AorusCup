@@ -1,16 +1,16 @@
 # AORUS x AMD - Community Cup #3
 ## Official Rulebook & Regulations (Counter-Strike 2)
 
-**Organizers :** Centurio, Croissant Strike & Aztec
-**Sponsor :** AORUS  
-**Format :** 100% Online - Tier 2  
-**Official Website :** https://playaztec.com/aoruscup  
+**Organizers :** Centurio, Croissant Strike & Aztec 
+**Sponsor :** AORUS, AMD
+**Format :** 100% Online - Tier 2 (NON-VRS) 
+**Official Website :** https://playaztec.com/ 
 **Contact :** contact@playaztec.com  
 **Official Discord :** https://discord.com/invite/g2jkVgVArB  
 
-**Diffusion officielle :**
-- https://www.twitch.tv/croissantstrike  
-- https://www.twitch.tv/croissantstrike2  
+**Official broadcast :**
+- https://www.twitch.tv/aorus_emea 
+- https://www.twitch.tv/magilacs 
 
 ---
 
@@ -122,14 +122,14 @@ Teams must always respect nationality core rules (see section 4.2).
 
 8 National Qualifiers:
 
-- UK
+- UK (+Ireland)
 - Nordics (Sweden, Denmark, Finland)
 - Spain
 - Benelux (Belgium, Netherlands, Luxembourg)
 - Poland
 - Romania
 - Turkey
-- France
+- France (+Switzerland)
 
 Each qualifier:
 - 64 slots
