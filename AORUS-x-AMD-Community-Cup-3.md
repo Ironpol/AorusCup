@@ -1,14 +1,14 @@
 # AORUS x AMD - Community Cup #3
 ## Official Rulebook & Regulations (Counter-Strike 2)
 
-**Organizers :** Centurio, Croissant Strike & Aztec 
-**Sponsor :** AORUS, AMD
-**Format :** 100% Online - Tier 2 (NON-VRS) 
-**Official Website :** https://playaztec.com/ 
-**Contact :** contact@playaztec.com  
-**Official Discord :** https://discord.com/invite/g2jkVgVArB  
+- **Organizers :** Centurio, Croissant Strike & Aztec 
+- **Sponsor :** AORUS, AMD
+- **Format :** 100% Online - Tier 2 (NON-VRS) 
+- **Official Website :** https://playaztec.com/ 
+- **Contact :** contact@playaztec.com  
+- **Official Discord :** https://discord.com/invite/g2jkVgVArB  
 
-**Official broadcast :**
+- **Official broadcast :**
 - https://www.twitch.tv/aorus_emea 
 - https://www.twitch.tv/magilacs 
 
