@@ -342,8 +342,8 @@ Admins reserve the right to:
 ## 7.1 Official Broadcast
 
 Official streams:
-- https://www.twitch.tv/croissantstrike
-- https://www.twitch.tv/croissantstrike2
+- https://www.twitch.tv/aorus_emea 
+- https://www.twitch.tv/magilacs 
 
 The Tournament reserves the right to broadcast any match.
 
